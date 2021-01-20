@@ -14,3 +14,9 @@
 1. 01_xxxでVBの新規プロジェクトを作成する
 2. 上記をコンパイルする
 3. 12_VB.net の.ignoreファイルを更新する
+
+## リポジトリ作成(git_Hub上のテスト)
+- [GitHub](https://github.com/)にログインして「New」ボタンをクリック
+- VBTEST を作成してみる
+- CreateRepository
+- Quick Setup を取得(https://github.com/raise-sys/VBTEST.git)

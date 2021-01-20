@@ -22,4 +22,7 @@
 - Quick Setup を取得(https://github.com/raise-sys/VBTEST.git)
 - vsCode > 左側GIT のアイコン > ・・・ > リモート > リモートの追加 
    > 上で取得したURLを入力
-- 
+
+## リポジトリへのプルとプッシュ
+- ・・・ > プル、プッシュ > 指定元からプル
+- ・・・ > プッシュ先... > VBTESTを選択
